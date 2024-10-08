@@ -11,5 +11,5 @@ O projeto utiliza o Cisco Packet Tracer.
 
 ## Principais funcionalidades:
 Simular um ambiente onde um roteador foi utilizado. \
-!![alt text](image.png)
+![alt text](image.png)
 
