@@ -1,4 +1,4 @@
-# Exercício II
+# Exercício 2
 ## Sobre o projeto:
 Esse projeto tem como objetivo simular um ambiente onde um roteador foi instalado em uma rede com switch. 
 ## Exercício utilizado para a criação do projeto:
